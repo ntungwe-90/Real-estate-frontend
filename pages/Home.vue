@@ -2,10 +2,10 @@
     <div>
         <!------main image showcase-->
         <div class="h-screen mx-8 rounded-2xl bg-no-repeat bg-center bg-cover " :style="{ 'background-image': `url(${require('@/static/images/Frame.png')})` }"> 
-            <div class="pl-32 pt-40">
+            <div class="pl-32 pt-44">
                 <div>
-                    <h1 class="font-mono text-white text-4xl font-extrabold w-1/4"> Modern Urban Apartment with
-                        <span> Modern</span>
+                    <h1 class="font-mono text-white text-6xl font-extrabold w-2/4"> Modern Urban Apartment with
+                        <span class="text-red-600"> Modern</span>
                 
                         Amenities
                     </h1>
