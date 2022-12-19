@@ -2,7 +2,7 @@
     <div>
         <div>
            
-            <RealHeader />
+            <Navbar />
 
         </div>
         
@@ -15,7 +15,7 @@
 
             
         <div>
-            <RealFooter />
+            <Footer />
         </div>
     </div>
 
@@ -23,13 +23,13 @@
 
 <script>
 import RealHeader from '~/components/RealHeader.vue';
-import RealFooter from '~/components/RealFooter.vue';
+import Footer from '~/components/Footer.vue';
 
 export default {
     name: 'MainLayout',
     components: {
-    RealHeader,
-    RealFooter
+        RealHeader,
+    Footer
 }
 
 }
