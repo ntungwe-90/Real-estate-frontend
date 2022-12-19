@@ -1,9 +1,18 @@
 <template>
-  <Tutorial/>
+  <div>
+
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage'
-}
+  name: "Index",
+  mounted() {
+    this.$router.push('/home')
+  }
+};
 </script>
+
+<style>
+
+</style>
