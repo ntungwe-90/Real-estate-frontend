@@ -32,6 +32,12 @@
 
         </div>
 
+        <!----------------------main three steps section-->
+        <div> 
+            
+        </div>
+        <!----------------------main three steps section-->
+
 
     </div>
 </template>
