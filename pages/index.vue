@@ -1,6 +1,6 @@
 <template>
  
-  <img src="https://mdbootstrap.com/img/new/slides/041.jpg" class="w-full h-auto" alt="..." />
+ 
 
 </template>
 
@@ -14,5 +14,8 @@ export default {
 </script>
 
 <style>
+body {
+    font-family: 'Poppins', sans-serif;
+    }
 
 </style>
