@@ -13,12 +13,12 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      {
-         rel: 'stylesheet',
-         // href: "https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,900;1,800;1,900&family=Poppins:ital@0;1&display=swap"
-        href:"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;1,400&display=swap"
-        //  href: "https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap"
-     },
+    //   {
+    //      rel: 'stylesheet',
+    //      // href: "https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,900;1,800;1,900&family=Poppins:ital@0;1&display=swap"
+    //     href:"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;1,400&display=swap"
+    //     //  href: "https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap"
+    //  },
 
     ]
   },

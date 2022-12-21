@@ -39,7 +39,7 @@
             <p class="text-gray-500 w-2/5 pt-4 leading-8 text-sm">Congue nisi, pretium in suspendisse. Enim accumsan ad, ligula pulvinar cursus porttitorCongue nisi, pretium in suspendisse. Enim accumsan ad, ligula pulvinar cursus porttito </p>
         </div>
 
-        <div class=" flex justify-between mx-20"> 
+        <div class=" flex justify-between mx-20 my-20"> 
             <div> 
                 <div> 
                     <img src="images/Pin Location.png" />
@@ -80,6 +80,26 @@
         <!----------------------main three steps section-->
 
         <!----------------------main image and card section-->
+        <div class="flex py-20"> 
+            <div class="w-2/4"> 
+                <img src="images/333.png" />
+
+            </div>
+
+            <div class="bg-red-600 w-2/4 gap-0"> 
+                <div> 
+                    <h2> Living Where You Means Loving Your Life</h2>
+                </div>
+                <div class="w-1/3"> 
+                    <p> Congue nisi, pretium in suspendisse. Enim accumsan ad, ligula pulvinar cursus porttitorCongue nisi,Congue nisi, pretium in suspendisse. Enim accumsan ad, ligula pulvinar cursus porttitorCongue nisi,</p>
+                </div>
+
+
+                <div> 
+                    <p class="py-4 w-36 bg-white text-red-600 text-center rounded text-base mt-8"> Explore Properties</p>
+                </div>
+            </div>
+        </div>
         
         <!----------------------main image and card section-->
     
